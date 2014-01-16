@@ -1,0 +1,4 @@
+Simple Neural Network written in Haskell.
+
+Based on code from here:
+http://natureofcode.com/book/chapter-10-neural-networks/
